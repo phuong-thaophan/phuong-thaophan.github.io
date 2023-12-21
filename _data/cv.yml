@@ -2,31 +2,34 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Phuong-Thao Phan
     - name: Languages
-      value: English, German
+      value: English, French, Vietnamese, Italian
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: PhD candidate
+      institution: University of Turin, Italy and University of Lorraine, France
+      year: 2019 - present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - PhD in Private international law
+        - Thesis: Cross-border actio pauliana
+
+    - title: Master 2 International and European Business Lawyer
+      institution: University of Lorraine, France
+      year: 2017 - 2018
+
+    - title: Master 1 - Corporate of Law
+      institution: University of Lorraine, France
+      year: 2016 - 2017
+    
+    - title: Bachelor of Laws
+      institution: University of Lorraine, France
+      year: 2013 - 2016
       description:
-        - Description 1.
-        - Description 2.
+        - Specialization in Common Law
+
 
 - title: Experience
   type: time_table
