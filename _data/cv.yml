@@ -74,10 +74,12 @@
 
 - title: Associative Activities
   type: time_table
-  contents: Member of the European Association of Private International Law
-    - title: Teaching assistant
-      year: 2020 - present
+  contents:
+    - year: 2020 - present
+      items: 
+        - Member of the European Association of Private International Law
+    - year: 2016 - 2017
+      items: 
+        - President of the Association of Vietnamese students in Nancy-Metz
 
-    - title: President of the Association of Vietnamese students in Nancy-Metz
-      year: 2016 - 2017
 
