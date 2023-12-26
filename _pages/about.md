@@ -19,4 +19,4 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Analytical and energetic lawyer with 2 years of experience in corporate law. Proficient in legal research document drafting, and ensuring regulatory compliance. Strong communication skills foster effective collaboration for favorable legal outcomes.
+Analytical and dynamic legal professional with experience in corporate law and private international law. Proficient in legal research, document drafting, and ensuring regulatory compliance. Competent in working independently and making valuable contributions to multidisciplinary teams. Possessing excellent flexibility and communication skills, promoting successful collaboration for positive legal outcomes.
